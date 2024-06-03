@@ -1,8 +1,7 @@
-# React + Vite
+# OutPut ScreenShot's 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1470" alt="Screenshot 2024-06-03 at 7 57 10 PM" src="https://github.com/sarthidarji128/FunnyJokeApp/assets/142773841/0ea55466-ce18-468d-baa7-54ee72643764">
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1470" alt="Screenshot 2024-06-03 at 7 56 55 PM" src="https://github.com/sarthidarji128/FunnyJokeApp/assets/142773841/cf2734b2-f3ce-410d-873c-39aa5535e205">
+
